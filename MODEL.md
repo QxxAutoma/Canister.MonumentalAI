@@ -1,7 +1,9 @@
-# MonumentalAI — Civ 6 Victory-Time Optimization Model (v2)
+# MonumentalAI — Enhanced AI for Civilization VI
 
-*Named for Monumentality, the golden-age dedication that makes the faith
-economy sing — and for the scale of the ambition.*
+*An AI player that actually plays the game, driven by a formal mathematical
+model of its systems rather than prompts. Named for Monumentality, the
+golden-age dedication that makes the faith economy sing — and for the scale
+of the ambition.*
 
 A formal model of Civilization VI's economic core for computing optimal play
 that minimizes expected victory turn E[T], for Science and Culture victories.
