@@ -309,6 +309,10 @@ records its ruleset column; anything sourced from a mixed page is flagged.
    from R&F — want confirmation).
 6. Trader "Switch City" timing (Fandom pages contradict each other).
 7. Combat damage floor/verification (community-research status).
+8. Production overflow carry-over between queue items: cap rules (if any)
+   and exact mechanics beyond the chop-overflow stripping in G5. The forward
+   model currently assumes uncapped base-only carry — needs verification,
+   since it governs chop-into-cheap-item sequencing and queue ordering.
 
 ## 10. Changelog
 
