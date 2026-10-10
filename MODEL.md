@@ -1,7 +1,6 @@
-# MonumentalAI — Enhanced AI for Civilization VI
+# MonumentalAI
 
-*An AI player that actually plays the game, driven by a formal mathematical
-model of its systems rather than prompts. Named for Monumentality, the
+*Enhanced AI for Civilization VI, model-driven. Named for Monumentality, the
 golden-age dedication that makes the faith economy sing — and for the scale
 of the ambition.*
 
